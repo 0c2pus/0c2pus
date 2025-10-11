@@ -1,16 +1,47 @@
-## Hi there 👋
+### Hi there 👋, I'm Pavlo
 
-<!--
-**0c2pus/0c2pus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### DevOps Engineer | Cloud & Automation Enthusiast | Full Lifecycle Application Knowledge
 
-Here are some ideas to get you started:
+I build and maintain scalable, automated infrastructure and CI/CD pipelines. Experienced in cloud environments, container orchestration, and end-to-end DevOps workflows.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Currently improving:** Kubernetes, ArgoCD.  
+🔹 **Open to collaboration:** Open-source DevOps projects.  
+🔹 **Background:** Former Frontend developer, giving me insight into full application lifecycle.
+
+---
+
+### 🛠️ My Tech Stack
+
+**DevOps & Cloud:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+
+**Development & Scripting:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+### 🏆 Certifications
+[![Cisco Certified Linux Unhatched](https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png)](https://www.credly.com/earner/earned/badge/517167c8-3159-47d3-8aef-698c171bed6e)
+[![Cisco Certified Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/earner/earned/badge/d6815951-101e-4cee-a7c3-abac32465d46)
+[![Docker Essentials: A Developer Introduction](https://images.credly.com/size/200x200/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob)](https://www.credly.com/earner/earned/badge/609b8a5a-93f7-46fa-8f35-00e47cd31e05)
+
+---
+
+### 🚀 My Featured Projects
+
+**[GitOps & DevOps](https://github.com/oc2pus/devops-portfolio-project)** - From Code to Kubernetes on macOS
+
+
+
