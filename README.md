@@ -41,7 +41,7 @@ I build and maintain scalable, automated infrastructure and CI/CD pipelines. Exp
 
 ### 🚀 My Featured Projects
 
-**[GitOps & DevOps](https://github.com/oc2pus/devops-portfolio-project)** - From Code to Kubernetes on macOS
+**[GitOps & DevOps](https://github.com/0c2pus/devops-portfolio-project?tab=readme-ov-file)** - From Code to Kubernetes on macOS
 
 
 
