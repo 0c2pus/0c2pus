@@ -37,6 +37,7 @@ I build and maintain scalable, automated infrastructure and CI/CD pipelines. Exp
 [![Cisco Certified Networking Basics](https://images.credly.com/size/160x160/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/earner/earned/badge/d6815951-101e-4cee-a7c3-abac32465d46)
 [![Docker Essentials: A Developer Introduction](https://images.credly.com/size/160x160/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob)](https://www.credly.com/earner/earned/badge/609b8a5a-93f7-46fa-8f35-00e47cd31e05)
 [![LFS158: Introduction to Kubernetes](https://images.credly.com/size/160x160/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](https://www.credly.com/earner/earned/badge/cbcf9f95-ade6-4a26-8d60-479ec695c0a8)
+[![LFS169: Introduction to GitOps](https://images.credly.com/size/160x160/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](https://www.credly.com/earner/earned/badge/e60ca8bb-bf8d-4016-9df3-8b55e298919f)
 
 ---
 
