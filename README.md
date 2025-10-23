@@ -38,7 +38,7 @@ I build and maintain scalable, automated infrastructure and CI/CD pipelines. Exp
 [![Docker Essentials: A Developer Introduction](https://images.credly.com/size/140x140/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob)](https://www.credly.com/earner/earned/badge/609b8a5a-93f7-46fa-8f35-00e47cd31e05)
 [![LFS158: Introduction to Kubernetes](https://images.credly.com/size/160x160/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](https://www.credly.com/earner/earned/badge/cbcf9f95-ade6-4a26-8d60-479ec695c0a8)
 [![LFS169: Introduction to GitOps](https://images.credly.com/size/160x160/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](https://www.credly.com/earner/earned/badge/e60ca8bb-bf8d-4016-9df3-8b55e298919f)
-[![Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png=160x160)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0CFCDD7DA8DE5DD7779DDAEB48BE3FE83337209511BD629D1A611B72305E5B92)
+[![Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://images.credly.com/size/160x160/images/ad7eda3b-2519-4787-bfcd-6febaba7c5d0/OCI25FNDCFAV1_cached_image_20251023-30-n1p6d.png)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0CFCDD7DA8DE5DD7779DDAEB48BE3FE83337209511BD629D1A611B72305E5B92)
 
 ---
 
