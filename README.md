@@ -54,6 +54,7 @@ I build and maintain scalable, automated infrastructure and CI/CD pipelines. Exp
 <a href="https://www.credly.com/badges/9f37f3bf-1889-4982-9e50-086a1f660709/public_url" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" alt="LFS180: Introduction to DevSecOps for Managers" width="80" height="80"/>
 </a>
+
 ---
 
 ### 🚀 My Featured Projects
