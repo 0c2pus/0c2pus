@@ -33,7 +33,7 @@ I build and maintain scalable, automated infrastructure and CI/CD pipelines. Exp
 ---
 
 ### 🏆 Certifications
-<a href="https://www.credly.com/badges/517167c8-3159-47d3-8aef-698c171bed6e/public_url" target="blank">
+<a href="https://www.credly.com/badges/517167c8-3159-47d3-8aef-698c171bed6e/public_url">
   <img src="https://images.credly.com/size/680x680/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" alt="Cisco Certified Linux Unhatched" width="80" height="80"/>
 </a>
 <a href="https://www.credly.com/badges/d6815951-101e-4cee-a7c3-abac32465d46/public_url" target="blank">
