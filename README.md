@@ -41,6 +41,7 @@ I build and maintain scalable, automated infrastructure and CI/CD pipelines. Exp
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0CFCDD7DA8DE5DD7779DDAEB48BE3FE83337209511BD629D1A611B72305E5B92" target="_blank"><img src="https://images.credly.com/size/680x680/images/ad7eda3b-2519-4787-bfcd-6febaba7c5d0/OCI25FNDCFAV1_cached_image_20251023-30-n1p6d.png" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" width="80" height="80"/></a>
 <a href="https://www.credly.com/badges/9f37f3bf-1889-4982-9e50-086a1f660709/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" alt="LFS180: Introduction to DevSecOps for Managers" width="80" height="80"/></a>
 <a href="https://www.credly.com/badges/5375a51e-45a9-4e93-a9f7-7b1fa04ca2c8/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="80" height="80"/></a>
+<a href="https://www.credly.com/badges/f5c436ec-b139-40b8-9b48-f6e50e3bdd44/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="80" height="80"/></a>
 
 ---
 
