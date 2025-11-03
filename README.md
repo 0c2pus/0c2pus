@@ -47,7 +47,7 @@ I build and maintain scalable, automated infrastructure and CI/CD pipelines. Exp
 
 ### 🚀 My Featured Projects
 
-**[GitOps & DevOps](https://github.com/0c2pus/devops-portfolio-project?tab=readme-ov-file)** - From Code to Kubernetes on macOS
+**[GitOps & DevOps](https://github.com/0c2pus/devops-portfolio-project?tab=readme-ov-file)** - From Code to Kubernetes on macOS</br>
 **[AWS Network Infrastructure with Terraform](https://github.com/0c2pus/terraform-aws-network-infrastructure)** - IaC implementation of production-grade AWS network architecture
 
 
