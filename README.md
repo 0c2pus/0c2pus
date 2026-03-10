@@ -1,23 +1,25 @@
 ### Hi there 👋, I'm Pavlo
 
-#### DevOps Engineer | Cloud & Automation Enthusiast | Full Lifecycle Application Knowledge
+#### Linux Systems & Support Engineer | DevOps in Progress
 
-I build and maintain scalable, automated infrastructure and CI/CD pipelines. Experienced in cloud environments, container orchestration, and end-to-end DevOps workflows.  
+Focused on Linux system diagnostics, network troubleshooting, and incident
+resolution. Practical experience with real-world failure scenarios, documented
+as engineering-grade post-mortems. Building toward a DevOps career through
+hands-on infrastructure work.  
 
-🔹 **Currently improving:** Kubernetes, ArgoCD.  
-🔹 **Open to collaboration:** Open-source DevOps projects.  
-🔹 **Background:** Former Frontend developer, giving me insight into full application lifecycle.
+🔹 **Currently practicing:** Linux troubleshooting, systemd, networking, PostgreSQL, Docker.
+🔹 **Background:** Former Frontend developer with full application lifecycle knowledge.
+🔹 **Goal:** L2/L3 Support or Sysadmin role as a stepping stone toward DevOps/SRE.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-**DevOps & Cloud:**  
+**Systems & Infrastructure:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
@@ -29,7 +31,6 @@ I build and maintain scalable, automated infrastructure and CI/CD pipelines. Exp
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -49,8 +50,6 @@ I build and maintain scalable, automated infrastructure and CI/CD pipelines. Exp
 
 ### 🚀 My Featured Projects
 
+**[Ops Runbook](https://github.com/0c2pus/ops-runbook)** — 20+ real Linux incident scenarios from SadServers with full RCA documentation, cheatsheets, and incident report templates.</br>
+
 **[GitOps & DevOps](https://github.com/0c2pus/devops-portfolio-project?tab=readme-ov-file)** - From Code to Kubernetes on macOS</br>
-**[AWS Network Infrastructure with Terraform](https://github.com/0c2pus/terraform-aws-network-infrastructure)** - IaC implementation of production-grade AWS network architecture
-
-
-
