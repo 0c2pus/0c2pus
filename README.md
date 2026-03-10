@@ -7,15 +7,15 @@ resolution. Practical experience with real-world failure scenarios, documented
 as engineering-grade post-mortems. Building toward a DevOps career through
 hands-on infrastructure work.  
 
-🔹 **Currently practicing:** Linux troubleshooting, systemd, networking, PostgreSQL, Docker.
-🔹 **Background:** Former Frontend developer with full application lifecycle knowledge.
-🔹 **Goal:** L2/L3 Support or Sysadmin role as a stepping stone toward DevOps/SRE.
+🔹 **Currently practicing:** Linux troubleshooting, systemd, networking, PostgreSQL, Docker.</br>
+🔹 **Background:** Former Frontend developer with full application lifecycle knowledge.</br>
+🔹 **Goal:** L2/L3 Support or Sysadmin role as a stepping stone toward DevOps/SRE.</br>
 
 ---
 
 ### 🛠️ My Tech Stack
 
-**Systems & Infrastructure:**
+**Systems & Infrastructure:** </br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -25,7 +25,7 @@ hands-on infrastructure work.
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 [![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 
-**Development & Scripting:**  
+**Development & Scripting:** </br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,4 +52,4 @@ hands-on infrastructure work.
 
 **[Ops Runbook](https://github.com/0c2pus/ops-runbook)** — 20+ real Linux incident scenarios from SadServers with full RCA documentation, cheatsheets, and incident report templates.</br>
 
-**[GitOps & DevOps](https://github.com/0c2pus/devops-portfolio-project?tab=readme-ov-file)** - From Code to Kubernetes on macOS</br>
+**[GitOps & DevOps](https://github.com/0c2pus/devops-portfolio-project?tab=readme-ov-file)** - Full application lifecycle from code to Kubernetes on macOS.</br>
