@@ -45,7 +45,7 @@ hands-on infrastructure work.
 <a href="https://www.credly.com/badges/5375a51e-45a9-4e93-a9f7-7b1fa04ca2c8/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="80" height="80"/></a>
 <a href="https://www.credly.com/badges/f5c436ec-b139-40b8-9b48-f6e50e3bdd44/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="80" height="80"/></a>
 <a href="https://sadservers.com/u/Pavlo+Antonenko"><img src="https://sadservers.com/static/favicon.ico" alt="SedServers Certificate of Master" width="80" height="80"/></a>
-<a href="https://certificates.epam.com/certificates/6429bf00-1760-495e-8db6-1bb8d3134b5b"><img src="https://certificates.epam.com/assets/svg/logoEpamColor.svg" alt="Epam - DevOps Beginner Certificate" width="80" height="80"/></a>
+<a href="https://certificates.epam.com/certificates/6429bf00-1760-495e-8db6-1bb8d3134b5b" style="background-color: #21232e; display: inline-flex;  align-items: center;  justify-content: center; width: 100px; height: 100px; text-decoration: none;"><img src="https://certificates.epam.com/assets/svg/logoEpamColor.svg" alt="Epam - DevOps Beginner Certificate" width="80" height="80"/></a>
 
 ---
 
