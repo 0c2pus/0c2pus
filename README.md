@@ -78,9 +78,3 @@ Hands-on infrastructure automation and monitoring setup.
 - Basic Kubernetes deployments
 - Monitoring stack (Prometheus + Grafana)
 - GitOps workflows and CI/CD automation
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0c2pus&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
