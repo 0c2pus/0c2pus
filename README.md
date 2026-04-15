@@ -1,40 +1,43 @@
-### Hi there 👋, I'm Pavlo
+![Header](assets/header.png)
+## Pavlo - Linux System Administrator
 
-#### Linux Systems & Support Engineer | DevOps in Progress
+I design, troubleshoot, and maintain reliable Linux systems.
+Focused on automation, incident analysis, and resolving real-world infrastructure issues.
 
-Focused on Linux system diagnostics, network troubleshooting, and incident
-resolution. Practical experience with real-world failure scenarios, documented
-as engineering-grade post-mortems. Building toward a DevOps career through
-hands-on infrastructure work.  
-
-🔹 **Currently practicing:** Linux troubleshooting, systemd, networking, PostgreSQL, Docker.</br>
-🔹 **Background:** Former Frontend developer with full application lifecycle knowledge.</br>
-🔹 **Goal:** L2/L3 Support or Sysadmin role as a stepping stone toward DevOps/SRE.</br>
+🔹 **Core:** Linux, Bash, troubleshooting</br>
+🔹 **Working with:** Nginx, PostgreSQL, Docker, monitoring stack</br>
+🔹 **Background:** Frontend → System Administration (strong debugging mindset)</br>
+🔹 **Approach:** Documentation-first, systematic problem solving, RCA-driven</br>
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
-**Systems & Infrastructure:** </br>
+**Systems & Administration:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
-[![SadServers Level](https://img.shields.io/badge/SadServers-Master-FF6D00?style=for-the-badge&labelColor=FFC400&logo=kubernetes&logoColor=1A237E&logoSize=auto)](https://sadservers.com/u/Pavlo+Antonenko)
+![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-**Development & Scripting:** </br>
+**Monitoring & Observability:**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Containerization & Automation:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Scripting & Development:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**Troubleshooting Practice:**  
+[![SadServers](https://img.shields.io/badge/SadServers-40%2B_Scenarios-FF6D00?style=for-the-badge&logo=linux&logoColor=white)](https://sadservers.com/u/Pavlo+Antonenko)
 
 ---
 
-### 🏆 Certifications
+### 📚 Certifications
 
 <p>
 <a href="https://www.credly.com/badges/517167c8-3159-47d3-8aef-698c171bed6e/public_url"><img src="https://images.credly.com/size/680x680/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" width="80"></a>
@@ -52,8 +55,32 @@ hands-on infrastructure work.
 
 ---
 
-### 🚀 My Featured Projects
+### 🚀 Featured Projects
 
-**[Ops Runbook](https://github.com/0c2pus/ops-runbook)** — 40+ real Linux incident scenarios from SadServers with full RCA documentation, cheatsheets, and incident report templates.</br>
+#### **[Ops Runbook](https://github.com/0c2pus/ops-runbook)**
+Real-world troubleshooting scenarios with structured Root Cause Analysis.
 
-**[GitOps & DevOps](https://github.com/0c2pus/devops-portfolio-project?tab=readme-ov-file)** - Full application lifecycle from code to Kubernetes on macOS.</br>
+**Highlights:**
+
+- 40+ incident scenarios (Linux, networking, PostgreSQL, Docker)
+- L2/L3-style troubleshooting workflow (Investigation → RCA → Resolution)
+- Production-style documentation and runbooks
+- Covers real issues: resource exhaustion, networking failures, DB auth, SSL, containers
+
+---
+
+#### **[GitOps & Infrastructure Practice](https://github.com/0c2pus/devops-portfolio-project)**
+Hands-on infrastructure automation and monitoring setup.
+
+**Highlights:**
+
+- Docker-based services and multi-stage builds
+- Basic Kubernetes deployments
+- Monitoring stack (Prometheus + Grafana)
+- GitOps workflows and CI/CD automation
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0c2pus&show_icons=true&theme=dark&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
